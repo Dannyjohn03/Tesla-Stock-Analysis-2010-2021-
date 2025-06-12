@@ -87,7 +87,7 @@ ORDER BY
 
  ## 🧱 How to Reproduce
 
-1. Clone this repo
+1. Clone this [repo](https://github.com/Dannyjohn03/Tesla-Stock-Analysis-2010-2021-.git)
 2. Import the CSV dataset into SQL Server or use Power BI’s data view
 3. Run SQL scripts to explore or transform data
 4. Open Tesla_Stock_Analysis.pbix in Power BI Desktop
