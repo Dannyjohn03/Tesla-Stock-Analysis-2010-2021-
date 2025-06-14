@@ -11,9 +11,10 @@ This project aims to analyze Tesla Inc.'s stock performance over a 12-year perio
 * Interactive business dashboards
 
 ## 📁 Project Structure
-- [/SQL](SQL) # SQL scripts for grouping, moving averages, trends
-- [/PowerBI](POWERBI) # .pbix file containing the interactive dashboard
-- [/Visuals](Visuals) # Dashboard screenshot
+- [SQL](SQL) # SQL scripts for grouping, moving averages, trends
+- [PowerBI](POWERBI) # .pbix file containing the interactive dashboard
+- [Visuals](Visuals) # Dashboard screenshot
+- [Data](Data)  #  Source Data
 
 
 ## 📌 Tools & Technologies
